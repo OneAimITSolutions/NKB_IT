@@ -59,7 +59,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-primary" />
-                <span className="text-sm text-muted-foreground">HouseNo-Amarpali,D-2/8 Janakpuri, Opp. Pankha Flyover, Near PNB.</span>
+                <span className="text-sm text-muted-foreground">HouseNo-Amarpali,D-2/8 Janakpuri, Opp. Pankha Flyover, Near PNB. Pin-1100058</span>
               </div>
             </div>
           </div>

@@ -42,13 +42,13 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      details: "+1 (555) 123-4567",
+      details: "+91 70785 77763",
       description: "Mon-Fri 9AM-6PM EST"
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      details: "123 Tech Street, Digital City, DC 12345",
+      details: "HouseNo-Amarpali,D-2/8 Janakpuri, Opp. Pankha Flyover, Near PNB. Pin-1100058",
       description: "Our main office"
     },
     {
